@@ -1,13 +1,11 @@
-/**
-
-hello.js
-
-*/
+//hello.js
 
 function hello(){
 
-console.log("Hello there");
+let msg = "Hello";
+
+console.log(msg);
 
 }
 
-hell();
+hello();
