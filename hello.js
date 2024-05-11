@@ -1,11 +1,13 @@
+/*
+
 //hello.js
 
-function hello(){
+*/
 
-let msg = "Hello";
+function sayHello(name="default"){
 
-console.log(msg);
+console.log("Hello there:"+ name);
 
 }
 
-hello();
+hello("Juan");
