@@ -10,4 +10,4 @@ console.log("Hello there:"+ name);
 
 }
 
-hello("Juan");
+hello("Juan and Pedro")nd ;
