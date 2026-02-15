@@ -4,9 +4,9 @@ hello.js
 
 */
 
-function hello () {
+function sayHello (name)"Default") {
 
-    console.log("Hello there");
+    console.log("Hello there" + name);
 
 }
 
