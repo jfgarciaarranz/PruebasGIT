@@ -10,4 +10,4 @@ function sayHello (name)"Default") {
 
 }
 
-hello("Juan");
+hello("Juan y Pedro");
